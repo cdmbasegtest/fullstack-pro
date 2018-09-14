@@ -19,3 +19,5 @@ import gql from 'graphql-tag';
 Issues
 -----
 - If you you encounter `npm ERR! Cannot read property '0' of undefined`then remove `node_modules` and reinstall the packages.
+
+Changes test branch
